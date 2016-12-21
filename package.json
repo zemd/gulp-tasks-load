@@ -1,0 +1,30 @@
+{
+  "name": "gulp-tasks-load",
+  "version": "1.0.0",
+  "description": "Gulp task to load tasks from custom directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemd/gulp-tasks-load.git"
+  },
+  "keywords": [
+    "gulp",
+    "load",
+    "tasks"
+  ],
+  "author": "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zemd/gulp-tasks-load/issues"
+  },
+  "homepage": "https://github.com/zemd/gulp-tasks-load#readme",
+  "dependencies": {
+    "globby": "6.1.0",
+    "gulp": "3.9.1",
+    "is-valid-glob": "0.3.0",
+    "slash": "1.0.0"
+  }
+}
