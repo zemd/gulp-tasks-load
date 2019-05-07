@@ -23,7 +23,7 @@
   "homepage": "https://github.com/zemd/gulp-tasks-load#readme",
   "dependencies": {
     "globby": "9.1.0",
-    "gulp": "4.0.1",
+    "gulp": "4.0.2",
     "is-valid-glob": "1.0.0",
     "slash": "3.0.0"
   }
